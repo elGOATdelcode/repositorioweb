@@ -1,6 +1,6 @@
 # Presentación
 
-## Soy un estudiante de X carrera
+## Soy Jesús, un estudiante de la carrera de Ingenieria en Sistemas computacionales en el Tecnológico Nacional de México
 
 Esta es una presentación para la materia de **Programación Web**.
 
@@ -16,7 +16,7 @@ En cuanto a mis habilidades, he usado el lenguaje **C#** en el transcurso de la 
 
 ### Experiencia Profesional
 
-Tengo **6 meses de experiencia** como técnico de IT, trabajando en un proyecto de una empresa que invitó a estudiantes de X universidad. Además, tengo experiencia en diferentes trabajos informales. Actualmente, no me encuentro trabajando.
+Tengo **6 meses de experiencia** como técnico de IT, trabajando en un proyecto de una empresa que invitó a estudiantes del Tec. Además, tengo experiencia en diferentes trabajos informales. Actualmente, no me encuentro trabajando.
 
 ---
 
