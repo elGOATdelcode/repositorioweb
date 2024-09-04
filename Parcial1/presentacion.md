@@ -1,6 +1,6 @@
 # Presentación
 
-## Soy Jesús, un estudiante de la carrera de Ingenieria en Sistemas computacionales en el Tecnológico Nacional de México
+## Soy Jesús, un estudiante de la carrera de Ingenieria en Sistemas Computacionales en el Tecnológico Nacional de México
 
 Esta es una presentación para la materia de **Programación Web**.
 
@@ -10,7 +10,7 @@ Esta es una presentación para la materia de **Programación Web**.
 
 ### Habilidades
 
-En cuanto a mis habilidades, he usado el lenguaje **C#** en el transcurso de la carrera en diferentes materias. Este semestre trabajaremos en **Desarrollo Web** y **Graficación**, por lo que decidiré si me enfoco más en aprender sobre los lenguajes y el Desarrollo Web o en los **Videojuegos**.
+En cuanto a mis habilidades, he usado el lenguaje **C#** en el transcurso de la carrera en diferentes materias. Este semestre trabajaremos en **Desarrollo Web** y **Graficación**, por lo que decidiré si me enfoco más en aprender sobre los lenguajes y el **Desarrollo Web** o en los **Videojuegos**.
 
 ---
 
@@ -22,7 +22,7 @@ Tengo **6 meses de experiencia** como técnico de IT, trabajando en un proyecto 
 
 ### Pasatiempos
 
-Uno de mis pasatiempos favoritos es el **running**. Me gusta porque gracias a él he visto los beneficios del ejercicio físico después de años de dejar de practicar fútbol. También disfruto **jugar ajedrez**, ya que siempre se puede mejorar y aprender diferentes maneras de jugar. Se puede competir con personas muy habilidosas en línea. Aquí dejo el enlace a mi plataforma favorita para jugar ajedrez:
+Uno de mis pasatiempos favoritos es el **running**. Me gusta porque gracias a él he visto los beneficios del ejercicio físico después de años de dejar de practicar fútbol. También disfruto **jugar ajedrez**, ya que siempre se puede mejorar y aprender diferentes maneras de jugar. Se puede competir con personas muy buenas en línea. Aquí dejo el enlace a mi plataforma favorita para jugar ajedrez:
 
 [Chess.com](https://www.chess.com)
 
@@ -43,7 +43,7 @@ Mis géneros favoritos de películas son el **suspenso** y la **ciencia ficción
 
 ### Videojuegos
 
-Desde pequeño he jugado videojuegos y me lo paso muy bien. EStos son unos de mis videojuegos favoritos:
+Desde pequeño he jugado videojuegos y me la paso muy bien. Éstos son unos de mis videojuegos favoritos:
 
 - **Pókemon Esmeralda**: Mi primer videojuego, no me importaba la historia pero lo mejor era pensar que tu equipo era el más fuerte.
 - **SOMA**: Un juego muy interesante y con un gran final.
