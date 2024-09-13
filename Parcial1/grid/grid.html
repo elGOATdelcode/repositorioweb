@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .grid-container{
+            display: inline-grid;
+            grid-template-columns: 100p 100px 100px;
+            grid-template-rows: 100px 100px;
+            row-gap: 10px;
+        }
+
+        .one{
+
+            grid-column: 1/3;
+            grid-row: 1/3;
+            background-color: greenyellow;
+            
+        }
+
+        .two{
+            grid-column: 2/3;
+            grid-row:2/3;
+            background-color: greenyellow;
+
+        }
+
+        .three{
+            grid-column: 3/3;
+            grid-row: 3/3;
+            background-color: greenyellow;
+        }
+
+       
+
+        .iteam1{
+            grid-area: header;
+        }
+        .iteam2{
+            grid-area: menu;
+        }
+        .iteam3{
+            grid-area: main;
+        }
+        .iteam4{
+            grid-area: rigth;
+        }
+        .iteam5{
+            grid-area: footer;
+        }
+
+        .grid{
+            display: grid;
+            grid-template-areas: 
+            'header header header header header header'
+            'menu main main rigth rigth rigth '
+            'menu footer footer footer footer';
+
+        }
+
+
+        .grid-container div{
+            background-color: beige;
+            display: flex;
+            border: 1px solid black;
+            font-size: 20px;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+
+
+
+            
+        }
+    </style>
+</head>
+
+
+<body>
+    <div class="grid-container">
+    <div class="one">caja 1</div>
+    <div class="two">caja 2</div>
+    <div class="three">caja 3</div>
+    <div class="four">caja 4</div>
+    <div class="five">caja 5</div>
+    <div class="six">caja 6</div>
+
+</div>
+
+</body>
+</html>
