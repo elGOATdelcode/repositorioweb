@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Un CSS grid</title>
+    <style>
+
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding:0;
+        }
+        
+        .grid-container {
+            display: grid;
+            width:100vw;
+            height:100vh;
+            grid-template-columns: 20% 80%;
+            grid-template-rows: 10% 80% 10%;
+            gap: 10px;
+            margin-bottom: 50px;
+            grid-template-areas:"enca enca"
+                                 "barra conte"
+                                 "piep piep";
+        }
+
+       
+
+        #contenedor1{
+            background-color: aliceblue;
+            grid-area: enca;
+        }
+        #contenedor2{
+            background-color: floralwhite;
+            grid-area: barra;
+        }
+        #contenedor3{
+            background-color: azure;
+            grid-area: conte;
+        }
+        #contenedor4{
+            background-color: gainsboro;
+            grid-area: piep;
+        }
+        
+
+    
+
+
+    </style>
+</head>
+<body>
+
+ 
+    <div class="grid-container">
+        <div id="contenedor1">Caja 1</div>
+        <div id="contenedor2">Caja 2</div>
+        <div id="contenedor3">Caja 3</div>
+        <div id="contenedor4">Caja 4</div>
+       
+    </div>
+
+  
+
+</body>
+</html>
