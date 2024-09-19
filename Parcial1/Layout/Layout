@@ -43,8 +43,36 @@
             grid-area: piep;
         }
         
+        .cajaFloat{
+            float: left;
+            border: 1px solid blue;     
+            margin: 10px;
+            height: calc(100% -20px);
+            width:  calc(100%/3)-20px;
 
-    
+        }
+
+        #contenedor4{
+            display: flex;          
+            flex-direction: row-reverse;
+            justify-content: center;
+        }
+
+        .cajaFlex{
+
+            border: 1px aliceblue;
+            border: yellow;
+        }
+
+    #cajaFlex1{
+        flex-grow: 1;
+    }
+    #cajaFlex2{
+        flex-grow: 2;
+    }
+    #cajaFlex3{
+        flex-grow: 3;
+    }
 
 
     </style>
@@ -53,10 +81,18 @@
 
  
     <div class="grid-container">
-        <div id="contenedor1">Caja 1</div>
+        <div id="contenedor1">
+        <div class="cajaFloat" id="cajaFloat1">Caja flotante 1</div>
+        <div class="cajaFloat" id="cajaFloat2">Caja flotante 2</div>
+        <div class="cajaFloat" id="cajaFloat3">Caja flotante 3</div>
+        </div>
         <div id="contenedor2">Caja 2</div>
         <div id="contenedor3">Caja 3</div>
-        <div id="contenedor4">Caja 4</div>
+        <div id="contenedor4">
+        <div class="cajaFloat" id="cajaFLex1">Caja flex 1</div>
+        <div class="cajaFloat" id="cajaFlex2">Caja flex 2</div>
+        <div class="cajaFloat" id="cajaFlex3">Caja flex 3</div>
+        </div>
        
     </div>
 
