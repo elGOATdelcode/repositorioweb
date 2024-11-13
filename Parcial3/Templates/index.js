@@ -15,16 +15,7 @@ app.get("/administrativos",(req,res)=>{
     res.render('vista1')
     })
 
-app.get("/maestros",(req,res)=>{
-console.log(req.body);
-res.send('Servidor contestando a peticion GET con parametros en el body')
-})
 
-app.get("/estudiantes/:carrera",(req,res)=>{
-    console.log(req.params.carrera);
-    console.log(req.params.control);
-    res.send('Servidor contestando a peticion GET con parametros')
-    })
 
 const PORT =3000;
 app.listen(PORT,()=>{
